@@ -1,5 +1,5 @@
 {
     "Title": "Updates Test",
-    "Date": "Today"
+    "Date": "Today",
     "Data": "Normal Roblox Update"
 }
